@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @github-Dheeraj
-- 👀 I’m interested in building tech to help myself 
+- 👋 Hi, I’m Dheeraj
+- 👀 Mosty building tools to help myself and others, and writing poetry sometimes.
 - 🌱 Learning JavaScript, Solidity and fundamentels of cryptography.
-- 💞️ I’m looking to collaborate on Blockchain appications, create amazing foundational applications.
+- 💞️ I’m looking to collaborate on Blockchain projects, create amazing foundational applications.
 - 📫 Reach me @dsborde on twitter and you can also mail me on bordedheeraj.77@gmail.com
 
 <!---
